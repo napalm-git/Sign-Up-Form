@@ -213,3 +213,28 @@ body {
 .flex-left {
   width: 60vw;
 }
+
+/* STYLE IMAGE */
+
+.flex-right {
+  position: relative;
+  background-image: url(img/maxim-berg-4DfS5Kb4YnY-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 40vw;
+  color: #fff;
+}
+
+.flex-right p {
+  position: absolute;
+  width: 100%;
+  bottom: 2%;
+  text-align: center;
+  background-color: #6d6d6d52;
+  padding: 5px 2px;
+}
+
+.flex-right a {
+  color: #fff;
+}
