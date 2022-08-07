@@ -138,3 +138,13 @@ body {
   height: 100vh;
   margin: 0 auto;
 }
+
+/* STYLE INFO */
+
+.info {
+  background-color: #f0f8ff6c;
+  padding: 50px;
+  font-size: 20px;
+  line-height: 2rem;
+  text-align: center;
+}
