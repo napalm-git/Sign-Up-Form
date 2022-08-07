@@ -210,13 +210,13 @@ body {
   font-weight: 400;
 }
 
-.flex-left {
+.flex-right {
   width: 60vw;
 }
 
 /* STYLE IMAGE */
 
-.flex-right {
+.flex-left {
   position: relative;
   background-image: url(img/maxim-berg-4DfS5Kb4YnY-unsplash.jpg);
   background-repeat: no-repeat;
@@ -226,7 +226,7 @@ body {
   color: #fff;
 }
 
-.flex-right p {
+.flex-left p {
   position: absolute;
   width: 100%;
   bottom: 2%;
@@ -235,6 +235,6 @@ body {
   padding: 5px 2px;
 }
 
-.flex-right a {
+.flex-left a {
   color: #fff;
 }
